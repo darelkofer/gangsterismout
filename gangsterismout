@@ -1,0 +1,3651 @@
+
+<!DOCTYPE html>
+<html class='v2' dir='ltr' lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/3566091532-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://www.gangsterismout.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://www.gangsterismout.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Gangsterism Out  - Atom" href="https://www.gangsterismout.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Gangsterism Out  - RSS" href="https://www.gangsterismout.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Gangsterism Out  - Atom" href="https://www.blogger.com/feeds/6344200803715377367/posts/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='Gangsterism Out' name='description'/>
+<meta content='https://www.gangsterismout.com/' property='og:url'/>
+<meta content='Gangsterism Out ' property='og:title'/>
+<meta content='Gangsterism Out' property='og:description'/>
+<title>Gangsterism Out </title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Simple
+Designer: Blogger
+URL:      www.blogger.com
+----------------------------------------------- */
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #000000;
+background: #ffffff none repeat scroll top left;
+padding: 0 0 0 0;
+}
+html body .region-inner {
+min-width: 0;
+max-width: 100%;
+width: auto;
+}
+h2 {
+font-size: 22px;
+}
+a:link {
+text-decoration:none;
+color: #000000;
+}
+a:visited {
+text-decoration:none;
+color: #000000;
+}
+a:hover {
+text-decoration:underline;
+color: #ff2806;
+}
+.body-fauxcolumn-outer .fauxcolumn-inner {
+background: transparent none repeat scroll top left;
+_background-image: none;
+}
+.body-fauxcolumn-outer .cap-top {
+position: absolute;
+z-index: 1;
+height: 400px;
+width: 100%;
+}
+.body-fauxcolumn-outer .cap-top .cap-left {
+width: 100%;
+background: transparent none repeat-x scroll top left;
+_background-image: none;
+}
+.content-outer {
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 0 #333333;
+box-shadow: 0 0 0 rgba(0, 0, 0, .15);
+margin-bottom: 1px;
+}
+.content-inner {
+padding: 10px 40px;
+}
+.content-inner {
+background-color: rgba(0, 0, 0, 0);
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+background: rgba(0, 0, 0, 0) none repeat-x scroll 0 -400px;
+_background-image: none;
+}
+.Header h1 {
+font: normal normal 36px 'Trebuchet MS',Trebuchet,Verdana,sans-serif;
+color: #000000;
+text-shadow: 0 0 0 rgba(0, 0, 0, .2);
+}
+.Header h1 a {
+color: #000000;
+}
+.Header .description {
+font-size: 18px;
+color: #000000;
+}
+.header-inner .Header .titlewrapper {
+padding: 22px 0;
+}
+.header-inner .Header .descriptionwrapper {
+padding: 0 0;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner .section:first-child {
+border-top: 0 solid #ffffff;
+}
+.tabs-inner .section:first-child ul {
+margin-top: -1px;
+border-top: 1px solid #ffffff;
+border-left: 1px solid #ffffff;
+border-right: 1px solid #ffffff;
+}
+.tabs-inner .widget ul {
+background: #ffffff none repeat-x scroll 0 -800px;
+_background-image: none;
+border-bottom: 1px solid #ffffff;
+margin-top: 0;
+margin-left: -30px;
+margin-right: -30px;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .6em 1em;
+font: normal normal 15px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #000000;
+border-left: 1px solid rgba(0, 0, 0, 0);
+border-right: 1px solid #ffffff;
+}
+.tabs-inner .widget li:first-child a {
+border-left: none;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+color: #ff2806;
+background-color: #ffffff;
+text-decoration: none;
+}
+/* Columns
+----------------------------------------------- */
+.main-outer {
+border-top: 0 solid #ffffff;
+}
+.fauxcolumn-left-outer .fauxcolumn-inner {
+border-right: 1px solid #ffffff;
+}
+.fauxcolumn-right-outer .fauxcolumn-inner {
+border-left: 1px solid #ffffff;
+}
+/* Headings
+----------------------------------------------- */
+div.widget > h2,
+div.widget h2.title {
+margin: 0 0 1em 0;
+font: normal bold 11px 'Trebuchet MS',Trebuchet,Verdana,sans-serif;
+color: #000000;
+}
+/* Widgets
+----------------------------------------------- */
+.widget .zippy {
+color: #ffffff;
+text-shadow: 2px 2px 1px rgba(0, 0, 0, .1);
+}
+.widget .popular-posts ul {
+list-style: none;
+}
+/* Posts
+----------------------------------------------- */
+h2.date-header {
+font: normal bold 10px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+}
+.date-header span {
+background-color: rgba(0, 0, 0, 0);
+color: #000000;
+padding: 0.4em;
+letter-spacing: 3px;
+margin: inherit;
+}
+.main-inner {
+padding-top: 35px;
+padding-bottom: 65px;
+}
+.main-inner .column-center-inner {
+padding: 0 0;
+}
+.main-inner .column-center-inner .section {
+margin: 0 1em;
+}
+.post {
+margin: 0 0 45px 0;
+}
+h3.post-title, .comments h4 {
+font: normal normal 20px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+margin: .75em 0 0;
+}
+.post-body {
+font-size: 110%;
+line-height: 1.4;
+position: relative;
+}
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+padding: 2px;
+background: rgba(0, 0, 0, 0);
+border: 1px solid rgba(0, 0, 0, 0);
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+}
+.post-body img, .post-body .tr-caption-container {
+padding: 5px;
+}
+.post-body .tr-caption-container {
+color: #000000;
+}
+.post-body .tr-caption-container img {
+padding: 0;
+background: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+.post-header {
+margin: 0 0 1.5em;
+line-height: 1.6;
+font-size: 90%;
+}
+.post-footer {
+margin: 20px -2px 0;
+padding: 5px 10px;
+color: #000000;
+background-color: #ffffff;
+border-bottom: 1px solid #ffffff;
+line-height: 1.6;
+font-size: 90%;
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: 1px solid #ffffff;
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+#comments .avatar-image-container img {
+border: 1px solid rgba(0, 0, 0, 0);
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #ffffff;
+border-bottom: 1px solid #ffffff;
+}
+.comments .comment-thread.inline-thread {
+background-color: #ffffff;
+}
+.comments .continue {
+border-top: 2px solid #ffffff;
+}
+/* Accents
+---------------------------------------------- */
+.section-columns td.columns-cell {
+border-left: 1px solid #ffffff;
+}
+.blog-pager {
+background: transparent url(https://www.blogblog.com/1kt/simple/paging_dot.png) repeat-x scroll top center;
+}
+.blog-pager-older-link, .home-link,
+.blog-pager-newer-link {
+background-color: rgba(0, 0, 0, 0);
+padding: 5px;
+}
+.footer-outer {
+border-top: 1px dashed #bbbbbb;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+background-size: auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+.mobile .body-fauxcolumn-outer .cap-top {
+background-size: 100% auto;
+}
+.mobile .content-outer {
+-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+}
+.mobile .tabs-inner .widget ul {
+margin-left: 0;
+margin-right: 0;
+}
+.mobile .post {
+margin: 0;
+}
+.mobile .main-inner .column-center-inner .section {
+margin: 0;
+}
+.mobile .date-header span {
+padding: 0.1em 10px;
+margin: 0 -10px;
+}
+.mobile h3.post-title {
+margin: 0;
+}
+.mobile .blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.mobile .footer-outer {
+border-top: none;
+}
+.mobile .main-inner, .mobile .footer-inner {
+background-color: rgba(0, 0, 0, 0);
+}
+.mobile-index-contents {
+color: #000000;
+}
+.mobile-link-button {
+background-color: #000000;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile .tabs-inner .section:first-child {
+border-top: none;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background-color: #ffffff;
+color: #ff2806;
+border-top: 1px solid #ffffff;
+border-bottom: 1px solid #ffffff;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #ffffff;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 1450px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 1450px;
+max-width: 1450px;
+_width: 1450px;
+}
+.main-inner .columns {
+padding-left: 0px;
+padding-right: 260px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0px;
+right: 260px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0px") -
+parseInt("260px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 260px;
+}
+.main-inner .column-left-outer {
+width: 0px;
+right: 100%;
+margin-left: -0px;
+}
+.main-inner .column-right-outer {
+width: 260px;
+margin-right: -260px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+body#layout div.add_widget {
+padding: 8px;
+}
+body#layout div.add_widget a {
+margin-left: 32px;
+}
+--></style>
+<script async='async' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<script async='async' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<script async='async' data-ad-client='ca-pub-8695955608050448' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6344200803715377367&amp;zx=056a4efc-1727-4b02-913f-259ddaaaaa23' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6344200803715377367&amp;zx=056a4efc-1727-4b02-913f-259ddaaaaa23' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6275411984779614&host=ca-host-pub-1556223355139109" crossorigin="anonymous"></script>
+
+<!-- data-ad-client=ca-pub-6275411984779614 -->
+
+</head>
+<body class='loading variant-simplysimple'>
+<div class='navbar no-items section' id='navbar' name='Navbar'>
+</div>
+<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<meta content='Gangsterism Out ' itemprop='name'/>
+<meta content='Gangsterism Out' itemprop='description'/>
+</div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header' name='Header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='https://www.gangsterismout.com/' style='display: block'>
+<img alt='Gangsterism Out ' height='71px; ' id='Header1_headerimg' src='https://blogger.googleusercontent.com/img/a/AVvXsEhzro9B4Q-4iOAXaF1UFMKDq5KO8Hg3NBGTP9JbOdOqFVQt3whNRo7YqA8w1HMDDJ112eUgYrp6hnKUC_Mw2loQDL6T7maXEGzF0sKzm4tVykzC4YneHOmu8mZuLuBMwlTZDyHLUcEw0W-iHbzg-PgvaJ1hgzqPK-dYfV1K1sZI8FXYKAzH1peD0ITW=s1277' style='display: block' width='1277px; '/>
+</a>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs section' id='crosscol' name='Cross-Column'><div class='widget PageList' data-version='1' id='PageList1'>
+<h2>Cocaine in</h2>
+<div class='widget-content'>
+<ul>
+<li>
+<a href='http://gangstersoutt.blogspot.com/p/wolfpack.html'>WolfPack</a>
+</li>
+<li>
+<a href='https://gangstersoutt.blogspot.com/p/ha-canada.html'>HA Canada</a>
+</li>
+<li>
+<a href='https://gangstersoutt.blogspot.com/p/famous-gangsters_21.html'>Famous Gangsters</a>
+</li>
+<li>
+<a href='https://gangstersoutt.blogspot.com/p/us-mob.html'>US Mob</a>
+</li>
+<li>
+<a href='https://gangstersoutt.blogspot.com/p/montreal-mafia.html'>Montreal Mafia</a>
+</li>
+<li>
+<a href='https://gangstersoutt.blogspot.com/p/ha-world.html'>HA World</a>
+</li>
+<li>
+<a href='https://gangstersoutt.blogspot.com/p/ha-quebec.html'>HA Quebec</a>
+</li>
+<li>
+<a href='https://gangstersoutt.blogspot.com/p/oz.html'>Oz</a>
+</li>
+<li>
+<a href='http://www.rcmp-grc.gc.ca/en/wanted'>RCMP Most Wanted</a>
+</li>
+<li>
+<a href='https://doctorstoxxman.blogspot.com/'>Doctor Stoxxman</a>
+</li>
+<li>
+<a href='https://www.gangsterismout.com/p/hexot.html'>HEXO.t</a>
+</li>
+<li>
+<a href='https://www.gangsterismout.com/p/cocaine-in.html'>Cocaine in </a>
+</li>
+<li>
+<a href='https://www.gangsterismout.com/p/vancouver.html'>Vancouver</a>
+</li>
+<li>
+<a href='https://www.gangsterismout.com/p/trump.html'>Trump</a>
+</li>
+<li>
+<a href='https://www.gangsterismout.com/p/animal-gangsters.html'>Animal Gangsters</a>
+</li>
+<li>
+<a href='https://www.gangsterismout.com/p/ha-america.html'>HA USA</a>
+</li>
+<li>
+<a href='https://eumostwanted.eu/'>EU most wanted</a>
+</li>
+<li>
+<a href='https://www.gangsterismout.com/p/greenbelt-fraud.html'>Greenbelt Fraud</a>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+<div class='tabs no-items section' id='crosscol-overflow' name='Cross-Column 2'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main' name='Main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Wednesday, December 27, 2023</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://i.ytimg.com/vi/g4aAT6mAc0A/hqdefault.jpg' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='6565288931070871281' itemprop='postId'/>
+<a name='6565288931070871281'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/zambias-foreign-minister-stanley-kakubo.html'>Zambia's Foreign Minister Stanley Kakubo quits after video</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6565288931070871281' itemprop='articleBody'>
+<table><tbody><tr><td width="560"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/g4aAT6mAc0A?si=w9_rE5y6_gAoO4OB" title="YouTube video player" width="560"></iframe></td><td width="800">Zambia&#8217;s Foreign Minister Stanley Kakubo resigned hours after he was caught in a social media frenzy over a cash payment from a Chinese businessman. Kakubo said in a letter he was quitting because of &#8220;malicious claims over a business transaction&#8221;. A signed note, dated July 8, 2022, was also posted. The note named a Chinese mining firm and a Zambian mining firm and said they had &#8220;exchanged US $100,000&#8221;.</td><td width="234"><img alt="" border="0" height="292" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh33yG6gDsaZxgT14TaTRZ26ItJX_40bvlEf1saPGt9PojNBjnf9TxiWwmb3ybZ0Lahdr8Mlhyow3m2t9GDZZn2ZKA-VhdxGVWodBXztLoAm4Jk6mCIR6DHeZo4v3h7JyUcMHZgXPfJcJO1e9Wu07XYq6dSJ_HSVmXpk3MCU3ExOHF_wofC4kEqam3ox0/w234-h292/crook.bmp" width="234" /></td></tr></tbody></table>
+
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=6565288931070871281&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=6565288931070871281&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=6565288931070871281&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=6565288931070871281&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=6565288931070871281&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=6565288931070871281&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEh2pPwvXvV4TVNtCGcLJunQCLsSZeqFlqwWCKI263uL-FXgRY6nQOz2rdGCbxy0KcpYrr6g_6p87wCRsM3OUFGGsO3LHSNTNxjS3laiYPubUVWpxwwWRWtjIKb43QNqALJHllIlq9P49td1bsBUyqL1zmRx8J4IyPo66m5JjJqMBCUNwj2yfihR-1vomt0=w400-h266' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='8468228785010988786' itemprop='postId'/>
+<a name='8468228785010988786'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/ridgeview-place-langford-hi-rise-still.html'>RidgeView Place - Langford hi-rise still vacant</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8468228785010988786' itemprop='articleBody'>
+<table><tbody><tr><td width="400"><img alt="" height="266" src="https://blogger.googleusercontent.com/img/a/AVvXsEh2pPwvXvV4TVNtCGcLJunQCLsSZeqFlqwWCKI263uL-FXgRY6nQOz2rdGCbxy0KcpYrr6g_6p87wCRsM3OUFGGsO3LHSNTNxjS3laiYPubUVWpxwwWRWtjIKb43QNqALJHllIlq9P49td1bsBUyqL1zmRx8J4IyPo66m5JjJqMBCUNwj2yfihR-1vomt0=w400-h266" width="400" /></td><td width="800">The owner of the building, Centurion Property Associates Inc., is suing the seller, builder, engineers and the City of Langford. Renters were first told to get out Dec. 20, 2019, after investigation by the Engineers and Geoscientists of B.C. found <b><u>many</u></b> serious structural flaws. 
+Two engineers involved in the original work lost their registration. Plans for the building had been stolen by the now bankrupt builder DB Services and improperly modified by the two. Langford re-issued an occupancy permit in April 2022 after another engineer&#8217;s review, but in April, the engineering body informed Centurion and the city it had opened an investigation into that engineer.</td><td width="206"><img alt="" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEhqNS9MzlPFgkrPsi4Fo63UHbUn15KHwk1veWlCL21B9uy9LizotdTh9Zw863xUJltCHjsaYzJwurI3-LZfVDSJcfme075wAu1MuYzzTuQXXren6D54v5flQxqS-ExKuX6R8Pcl1-JtZwxzdJw3e3g0P-oIuoVuaqQ65U-X1mhC3GImiJ8m7E8T5C_jKv0" width="206" /><br />info@egbc.ca</td></tr></tbody></table>
+130 people had to evacuate the building and it has sat untouched since. The building trade in British Columbia at 3rd world levels is due to the continuous supply of incompetent criminals from the office of the Engineers and Geoscientists of B.C. A recent DeCotiis excavation wall collapse demonstrates all. The engineers/crooked bums very much need to be regulated in B.C. for the public's safety. <br />
+See -----&gt;<a href="https://www.gangsterismout.com/2019/12/db-services-3rd-world-criminal-builder.html" target="_blank">DB Services - 3rd world criminal builder - Bankrupt</a><br />
+See -----&gt;<a href="https://www.gangsterismout.com/2023/12/decotiis-foundation-wall-collapse.html" target="_blank">Decotiis wall collapse = Amacon Developments</a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=8468228785010988786&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8468228785010988786&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8468228785010988786&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8468228785010988786&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8468228785010988786&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8468228785010988786&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://i.ytimg.com/vi/pGkQ8drzvF0/hqdefault.jpg' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='4190243011483882653' itemprop='postId'/>
+<a name='4190243011483882653'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/hakan-ayik-luxury-fleet-turned-into.html'>Hakan Ayik luxury fleet turned into police cars</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4190243011483882653' itemprop='articleBody'>
+<table><tbody><tr><td width=560><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/pGkQ8drzvF0?si=qYIJHei4DysSfezh" title="YouTube video player" width="560"></iframe>See ----><a href="https://www.gangsterismout.com/2018/02/gangster-hakan-ayik-australias-top-drug.html" target="_blank">Hakan Ayik - Australia's top drug importer busted</a></td><td width=800> 21 cars formerly owned by drug kingpin Hakan Ayik were given a &#163;3m makeover and are now Turkish police cars. Ferraris, Bentleys, Porsches, BMWs, Audis, Range Rovers and Mercedes are part of the assets from 55 gangsters worth &#163;130m and includes bank accounts, houses, and shares in 22 different companies.
+  <center><img alt="" border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghq9aAX6obmthhINV6MZNMDNpiauOknYotLBAZxBv40_-y95_wdwkbbuM4MtKa6FYeGCSd-1pSzZl7grHLZ5YcL66BEoceO2BQ1Voj3oDz6DfZqTdVODVnVxamLjsuPdtv8vanQXfViHml98JGUpzm0C6pl6vSEghTID4yWgpvD-oQOOLlmK3VRPQXnvk/s400/c3129dd75dba71f1782ccc8ce509ea02.webp" width="400"/></center>
+</td></tr></tbody></table>
+Ayik's fortune is estimated at $1 billion. He had been running his operation openly, with reports claiming he was paying $1m per month as protection money to corrupt government and military officials.
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=4190243011483882653&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4190243011483882653&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4190243011483882653&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4190243011483882653&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4190243011483882653&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4190243011483882653&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Tuesday, December 26, 2023</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEgvZ4luC4bpdr-MjiaVvSW442DZuydAsKB4XXqUhlTW1Jq7U7fPA_QRksjqI996qsH0KzUUpFxoua-VbFUwEys6PWCxHvaUXdgElaXojjaivY_861bRIloQ-wolf2H5GhHy39mFHuglYA3dhx1N4d7rAsXkiEWmHbjfc--JhzgkiC9aj8IJwZj6KbPwESQ=w640-h374' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='4894549118144421210' itemprop='postId'/>
+<a name='4894549118144421210'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/mr-flashy-gangster-sliced-to-ribbons.html'>Mr Flashy gangster sliced to ribbons after gun jams - update</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4894549118144421210' itemprop='articleBody'>
+Internet gossip suggests 2 thugs abandoning the doomed Tristan Sherry in a white Audi included Mr. Flashy.
+<table><tbody><tr><td width="640"><img alt="" height="374" src="https://blogger.googleusercontent.com/img/a/AVvXsEgvZ4luC4bpdr-MjiaVvSW442DZuydAsKB4XXqUhlTW1Jq7U7fPA_QRksjqI996qsH0KzUUpFxoua-VbFUwEys6PWCxHvaUXdgElaXojjaivY_861bRIloQ-wolf2H5GhHy39mFHuglYA3dhx1N4d7rAsXkiEWmHbjfc--JhzgkiC9aj8IJwZj6KbPwESQ=w640-h374" width="640" /><br />Thugs of the shot 3 times Hennessy Sr have sworn revenge. Jason Hennessy was unharmed.  All are known to cops for their involvement in Dublin's drug trade. </td><td width="800">Gardaí are bracing for revenge attacks and say citizens could be dragged into a feud between gangs after a Christmas Eve shooting at a Dublin steakhouse. The attack at Browne's Steakhouse in Blanchardstown, west Dublin, left gunman Tristan Sherry, 26, dead.
+He targeted Jason Hennessy's father and was sliced to ribbons, stabbed some 30 times. Sherry was a member of a local drug gang led by Mr Flashy (Glen Ward).
+  <center><img alt="" height="225" src="https://blogger.googleusercontent.com/img/a/AVvXsEhqolQuSGLYRaO-996E4RLLvnZCQ-EQnfW0NL2vRuTk5A9V-4pXV0yBgwwFEYYdFkOHQYAbza5UFCV91dYrz_DxvIHnOJY6q9UVCg-09QPj9ucQ68A5SIl7Yd3o-sj0-zqWbKpnxLWog6jlXALVP1UTn09JQVta158NqGAYrv45N0IUVIPzoGAHt4zBoEY=w405-h225" width="405" /></center></td></tr></tbody></table>
+The attack is linked to a feud in the Corduff area of west Dublin that has been ongoing since 2019. Local dealers have been at war with the Finglas-based gang of Mr Flashy.<br />
+See -----&gt;<a href="https://www.gangsterismout.com/2022/06/mr-flashy-david-glen-ward-runs-for-life.html" rel="nofollow" target="_blank">Mr. Flashy - David Glen Ward </a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=4894549118144421210&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4894549118144421210&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4894549118144421210&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4894549118144421210&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4894549118144421210&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4894549118144421210&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZN70Ne5dRP5s5llJJEtvWaKHwDkU-wRJ9FMkuoH1E1Ie-5ZJFkFtQZsiA6Wqeq_prdi3MIoFLV1zKLrDcWcQ3FQ5uSW28j1OeIq-Qi54-Y2lNc8K_afP6GeoThX1Zb7uc1X5a-_3XW62b6jQLepn1p0lBcTCn-Ga7GzwH6I0_Kfwbx8jaXly7iTg3-G0/s320/download%20%281%29.bmp' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='4267154888862068654' itemprop='postId'/>
+<a name='4267154888862068654'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/asshole-toronto-cop-threatens-to.html'>Toronto cop threatens to confiscate Canadian flag</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4267154888862068654' itemprop='articleBody'>
+<table><tbody><tr><td width="460"><blockquote class="twitter-tweet" data-media-max-width="460"><p dir="ltr" lang="en">Toronto Police tells counter-demonstrator to stop waving the Canadian flag in front of Palestinian supporters <a href="https://t.co/XwnnhECwh9">pic.twitter.com/XwnnhECwh9</a></p>&#8212; 6ixBuzzTV (@6ixbuzztv) <a href="https://twitter.com/6ixbuzztv/status/1739071313178771706?ref_src=twsrc%5Etfw">December 24, 2023</a></blockquote> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></td><td width="800">A peaceful protest against a rapidly increasing Israel genocide found a Toronto pig loudly lecturing folks about his plans to steal the nation's flag, which offends the goof. Where <b>DO</b> these little jackboot dickfaces on the TPS come from?<table><tbody><tr><td><img alt="" border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZN70Ne5dRP5s5llJJEtvWaKHwDkU-wRJ9FMkuoH1E1Ie-5ZJFkFtQZsiA6Wqeq_prdi3MIoFLV1zKLrDcWcQ3FQ5uSW28j1OeIq-Qi54-Y2lNc8K_afP6GeoThX1Zb7uc1X5a-_3XW62b6jQLepn1p0lBcTCn-Ga7GzwH6I0_Kfwbx8jaXly7iTg3-G0/s320/download%20%281%29.bmp" width="320" /></td><td width="303"><img alt="" border="0" height="303" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzs21_Gy4nn5XXn4zeloQqG-RIkWszPmT1J7KR96c39Kw-0S05A-jW1vgatdr4TlecbcIDzQLDlb3Vn0_ndxznwSSDFkSvVvtbrzZEIEDAt5L9woDmPwT4viYRUW3LxsLKrMS2bJoMDhR6BQfwONzRSrDb0KSWK-_RuktaHQyLH6a3YtSl0klxjHoC2Kg/w303-h303/53c2e8e822bb4f37a7130a73f6d165bf.webp" width="303" /></td></tr></tbody></table>This dopey cop is not de-escalating anything and should STFU.</td></tr></tbody></table>
+
+ 
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=4267154888862068654&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4267154888862068654&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4267154888862068654&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4267154888862068654&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4267154888862068654&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=4267154888862068654&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEizRVjc1joohDJjPc2ap0HDWoKK7Xu0L4yM4YbffQAKyR7LvXNmOubt0_DbHeROrjvsg9iJLBvRvebjvEOIbETA-toNKkNyoowai2jLfdzxUQUdwB1sMkfxYEKxMA6gYTMVu6dHgLY1KP2aMjlNn2RSgOZUlVF0nR-gGGXDC75I1THEZ9YCCJTfZPy1N9s=w640-h426' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='3112172369182764814' itemprop='postId'/>
+<a name='3112172369182764814'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/iranian-water-mafia.html'>Iranian water mafia</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3112172369182764814' itemprop='articleBody'>
+<table><tbody><tr><td width="640"><img alt="" data-original-height="400" data-original-width="600" height="426" src="https://blogger.googleusercontent.com/img/a/AVvXsEizRVjc1joohDJjPc2ap0HDWoKK7Xu0L4yM4YbffQAKyR7LvXNmOubt0_DbHeROrjvsg9iJLBvRvebjvEOIbETA-toNKkNyoowai2jLfdzxUQUdwB1sMkfxYEKxMA6gYTMVu6dHgLY1KP2aMjlNn2RSgOZUlVF0nR-gGGXDC75I1THEZ9YCCJTfZPy1N9s=w640-h426" width="640" /></td><td width="800">A record-breaking combination of heat and humidity last summer translated to an Iranian heat index value of more than 150 degrees, pushing the limits of human survival. Iran is grappling with water bankruptcy, where the consumption of renewable fresh water surpasses that available, leaving limited water reserves relegated to diminishing ground water. Aquifer replenishment is around 20 billion cubic meters, while withdrawal exceeds 51 billion cubic meters annually, resulting in a negative balance of underground fresh water. Amid criticism over the Iranian regime's environmental mismanagement that led to the disappearance of Lake Urmia, the regime is blaming foreigners. Lake Urmia, once the largest in the Middle East, has significantly shrunk over the years due to water mismanagement and climate change. In two decades the lake level has dropped more than 7 meters. (23 feet) </td></tr></tbody></table>
+<table><tbody><tr><td width="400"><img alt="" height="225" src="https://blogger.googleusercontent.com/img/a/AVvXsEjoxPAPq3WcSePtrUkMq45oM5ffXsO2mub2weYSFhk7JdexWM8O4QdVMH73_VVCkVCz9bIqGmh73YKsmC7m58u9o_IT_WVt9kNT2HrLwsX3ZYnTbHcADFcL92GXmX--94E0oJgH5aF--7rlP5PEP5T31SZpSP98OMVJIFOklqZrP8XeV8ZWGF2OKkaVKDk=w400-h225" width="400" /></td><td width=800>Following the Iran-Iraq war, the country&#8217;s development relied on aquifers, dams and hydropower production. Droughts and water shortages have led to soil erosion, desertification, and dust storms. Agriculture is sapping Iran&#8217;s surface water, stored in rivers, lakes, wetlands and reservoirs. The agricultural sector accounts for 90% of Iran&#8217;s water consumption, largely with practices rooted in tradition, not science. </td><td width=400><img alt="" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEiz4Vwp-AiQ3jA10R4fDfkcRUGS_GLfnJ3M0sosmibGy2YY0pN7nSqvAFNs8HqOdxX_U1LBiAbFSCEnvBYl51sGAviqlj10PG1TWoBQHKX7-nQZpHSukw2brIrq7NVXdfVh3h_tUB4Frh_cmk7xXorsvTVLiHfAuhlz7rb5B3t__fIv_97vZibKjbpfOXI" width="320" /></td></tr></tbody></table>
+<table><tbody><tr><td><img alt="" height="300" src="https://blogger.googleusercontent.com/img/a/AVvXsEhEjo5fk1EdCrX-w40ezlfHz_Sz6-bNkSxyp7olW5CpayNgXlnZKvPKtkygq9Pm1fhTsHvhUmXQujB7NAuGptr9rSpMiQBMnitJLy9D1FpWFyeGru3Lhu2Yfc5jT0OwqPfvkVc-VqPo8c-rlst9TtAbC5P6E68x0j9W3oTC9O7KcvoMMNquwCg6zYSW_Ao=w400-h300" width="400" /><br /> Lake Oroumieh in March 2010. </td><td width=800>Iranian authorities remain adamant about building more dams and redirecting water to address short term shortages. Tehran blames the Taliban, accusing it of violating a 1973 water treaty by restricting flow from the shared Helmand River from Afghanistan into Iran.</td><td width=400><img alt="" data-original-height="900" data-original-width="1200" height="300" src="https://blogger.googleusercontent.com/img/a/AVvXsEhsPjl_QWXHXOOOqxt5kS_SxVL9VBV3Q8hYRNcbPWWl54oPCKvwNWo3_ZPjsby7I3hkz6pEp-H2rc_EIWx4GzQYJIb297sXflJjls_31Z0CyiHkh2Tm4ZmHCNFXzrqFc6yfGtWyGPFf_fauEWZRd_r_c6prgGv71AWg3EovmMxZ50ieK-PKmsY8mTNtVhU=w400-h300" width="400" /><br />Lake Oroumieh in March 2023.</td></tr></tbody></table>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=3112172369182764814&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=3112172369182764814&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=3112172369182764814&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=3112172369182764814&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=3112172369182764814&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=3112172369182764814&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Monday, December 25, 2023</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj64aiHqb7Em-IkSSlBofzCTX0Dep1ltEmuSPxb-liAzy6ZsTSp5G0SepicofSPIbjZmOSVMbT4o-ZKNmy9QyYiReBm2Ws7hICmomTzgwLvd6L2A6YlJYybNzr_LyYmcKWKmvj0ijPTAjlkUreVNUxdazz1x4YufkX0PCWWWPb1lGCbBkg1Cn2uqDWg7mo/w309-h270/goof.bmp' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='3979577043166169103' itemprop='postId'/>
+<a name='3979577043166169103'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/lunatic-trump-wishes-americans-merry.html'>Trump wishes Americans a Merry Christmas</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-3979577043166169103' itemprop='articleBody'>
+<table><tbody><tr><td width="309"><img alt="" border="0" height="270" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj64aiHqb7Em-IkSSlBofzCTX0Dep1ltEmuSPxb-liAzy6ZsTSp5G0SepicofSPIbjZmOSVMbT4o-ZKNmy9QyYiReBm2Ws7hICmomTzgwLvd6L2A6YlJYybNzr_LyYmcKWKmvj0ijPTAjlkUreVNUxdazz1x4YufkX0PCWWWPb1lGCbBkg1Cn2uqDWg7mo/w309-h270/goof.bmp" width="309" />
+  
+  
+  </td><td width="800">Merry Christmas to all, including Crooked Joe Biden&#8217;s ONLY HOPE, Deranged Jack Smith, the out of control Lunatic who just hired outside attorneys, fresh from the SWAMP (unprecedented!), to help him with his poorly executed WITCH HUNT against &#8220;TRUMP&#8221; and &#8220;MAGA.&#8221; Included also are World Leaders, both good and bad, but none of which are as evil and &#8220;sick&#8221; as the THUGS we have inside our Country who, with their Open Borders, INFLATION, Afghanistan Surrender, Green New Scam, High Taxes, No Energy Independence, Woke Military, Russia/Ukraine, Israel/Iran, All Electric Car Lunacy, and so much more, are looking to destroy our once great USA. MAY THEY ROT IN HELL. AGAIN, MERRY CHRISTMAS!</td><td width="234"><img alt="" border="0" height="249" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg64u5du-DbVnlDVY4QEKiw4tyKJPawvTruBCVjgAC1FjrnJfDLD8yT8QzGIykE7znanGXjkDqtgEnqMvKpCDomMNXw_51hJGiU3gOXKB5x1_XcefqPPp57TKqyD-mdWNh1UwN4qo8Va4P9M1R3fP5mQHaW0x1rDLUxjr17gtKin5PJkwHMLQbaCaM9AaU/w234-h249/image.png" width="234" /></td></tr></tbody></table>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=3979577043166169103&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=3979577043166169103&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=3979577043166169103&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=3979577043166169103&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=3979577043166169103&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=3979577043166169103&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Sunday, December 24, 2023</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEhYZrDLMdxB1DTKnN5cxlMhrUh5xLXgs2RUJgcW0C-40pz9rtF7AkMvHWo-WThrp4cFEy5hCXNrtJWUfMt8x_S6Vay0nb9sllzc_27kQHgmoyBdAG54YnXaNpkIHZsQR7HHGMO2wBlBhhEQ-pQE-Y2DLSO7yTmvHjIst80MUyiEYcPFbxq0Xr2TzVBhwaU=w400-h294' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='5711760005880442021' itemprop='postId'/>
+<a name='5711760005880442021'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/limerick-cocaine-bust-has-canadian.html'>Limerick cocaine bust has Canadian connect</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5711760005880442021' itemprop='articleBody'>
+<table><tbody><tr><td width=400><img alt="" height="294" src="https://blogger.googleusercontent.com/img/a/AVvXsEhYZrDLMdxB1DTKnN5cxlMhrUh5xLXgs2RUJgcW0C-40pz9rtF7AkMvHWo-WThrp4cFEy5hCXNrtJWUfMt8x_S6Vay0nb9sllzc_27kQHgmoyBdAG54YnXaNpkIHZsQR7HHGMO2wBlBhhEQ-pQE-Y2DLSO7yTmvHjIst80MUyiEYcPFbxq0Xr2TzVBhwaU=w400-h294" width="400" /></td><td width=800>A bulker arriving in Ireland from Canada contained at least 300 kg of cocaine. The Verila arrived in the Irish port of Foynes near the city of Limerick last week.  Owned by Bulgaria&#8217;s Navigation Maritime Bulgare (Navibulgar), the ship was reported to be carrying a load of grain from Canada. The ship departed Montreal on December 9. A search returned bundles of cocaine wrapped with life preservers as flotation devices and GPS beacons. Cops suspect the cocaine was to be tossed overboard to be recovered by a smaller boat. </td><td width=320><img alt="" height="180" src="https://blogger.googleusercontent.com/img/a/AVvXsEj3f7pNdEOwkL25BB4fiG6Wx0_2tJaiarWFlgZx-sSXeW8DWaXjm0ME2PTvDKCGpPVVTK1fI8PuwGksb0m3OTvaHAmk_ktCbqBrvKElZNbsxJ53sZSGn-RyVI0QHPIG2MpfuC-wlUfXHMeUOIt51CI-i7yzBoCknpw_nHfH6JYwmSPGHP7cgjUdyKb9oXQ" width="320" /><br>The Verila came from Brazil and made a stop in Hamilton. <a href="https://www.vesselfinder.com/vessels/details/9905734" target="_blank">Here</a>.</td></tr></tbody></table>This is the second major seizure the Irish have made in recent months. In September, another bulker, the Mathew, was found with over 2,000 kg of cocaine. The vessel was seized and a prosecution is ongoing in that case.
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=5711760005880442021&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=5711760005880442021&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=5711760005880442021&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=5711760005880442021&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=5711760005880442021&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=5711760005880442021&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEh5_Njpr7CLDOKBp8GEGzfyaF6eceDHvWJ22IFGlm1IGbGsR6KHewuMb1iAWkJfJ-Bk51zETrPSBlA6MtnR5rQLk_2gYOd8E4iOw1vmkHcqSfFKPG5jwG6AZ7IX8hBy4eU0HaNtzOcQQSwA4Xxwd2cXwNv483etjLozHqfTgIEIzoxpBxs0o5HQywmrvIE=w320-h320' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='1540158290327243135' itemprop='postId'/>
+<a name='1540158290327243135'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/cocaine-in-cheese.html'>Cocaine in cheese</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-1540158290327243135' itemprop='articleBody'>
+<table><tbody><tr><td width=320><img alt="" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEh5_Njpr7CLDOKBp8GEGzfyaF6eceDHvWJ22IFGlm1IGbGsR6KHewuMb1iAWkJfJ-Bk51zETrPSBlA6MtnR5rQLk_2gYOd8E4iOw1vmkHcqSfFKPG5jwG6AZ7IX8hBy4eU0HaNtzOcQQSwA4Xxwd2cXwNv483etjLozHqfTgIEIzoxpBxs0o5HQywmrvIE=w320-h320" width="320" /></td><td width=800>Texas man Aaron Balderrama, 23, has been sentenced to 37 months in prison after being convicted of smuggling cocaine into the United States by hiding it in wheels of cheese. Officers noticed four wheels of cheese in Balderrama's car and "proceeded with a secondary inspection. Upon inspection it was revealed that the wheels of cheese contained seven bundles of a substance that tested positive for properties of cocaine," the release said. </td><td width=400><img alt="" height="300" src="https://blogger.googleusercontent.com/img/a/AVvXsEgQPhmeK9xPLqcTMm4ikcTEfJ-X6zwsJs8t3aw6wrzun86c40Z6aIJ-WqwdlFO1AGD6igwDtUkrrtTA-ikaAAibKIvXcp2IsU0h3zZLb2W8cMPhlg8x27snB3NXEknHMbIFOjCbgABTZhb4-J_RCZE5op7GnG4kywNboykpmfG-MeWlGRon0IzuWT0aCL0=w400-h300" width="400" /></td></tr></tbody></table>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=1540158290327243135&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=1540158290327243135&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=1540158290327243135&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=1540158290327243135&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=1540158290327243135&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=1540158290327243135&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZf9ukEOsfX13AAsHMNUAqQMXWNrQgb6Td8xsNSEQrOaa3lEOj_BdP6xQ2EN7bhVDkl_nJz9uzSQLDwbsThxn5wwVvKh-VQ7RBAw22lq-6xq8OkXrLRHxJPqAKqD_rj0aHfzfvENk0TCLlbAjY0DSIPOqI15URM7fjzAR1zD6kvKs2OB-aOA5m5s4N/s400/rs=w_719,h_739.png' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='8289693643695891403' itemprop='postId'/>
+<a name='8289693643695891403'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2018/04/manitoba-hells-angels-do-fraud-on-small.html'>Dale Kelland/Donovan - Manitoba nomads revisited - biker discrimination</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8289693643695891403' itemprop='articleBody'>
+
+<table><tbody><tr><td width="400"><img alt="" border="0" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZf9ukEOsfX13AAsHMNUAqQMXWNrQgb6Td8xsNSEQrOaa3lEOj_BdP6xQ2EN7bhVDkl_nJz9uzSQLDwbsThxn5wwVvKh-VQ7RBAw22lq-6xq8OkXrLRHxJPqAKqD_rj0aHfzfvENk0TCLlbAjY0DSIPOqI15URM7fjzAR1zD6kvKs2OB-aOA5m5s4N/s400/rs=w_719,h_739.png" /></td><td>Dale Kelland, (Dale Donovan) was peddling Nomad gear last year.
+  <br />
+ <a href="https://nomadsmanitoba.com/" target="_blank"> https://nomadsmanitoba.com/</a>
+  <center><img alt="" border="0" height="209" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7NFvyRDn41rRg9LBION8MVRuLh_eJoFjNS5KuSX-TObODV5g9oZ1Uwu-2flAf_l2YquV9QHkituRWeqc94-pjQvwxjInv6srt3DLFRTjcuHLAzktwiScLbCRqnrWmmGA5el6pmPxipiOBwIF7NTd3KZoa_h7r45tgXcFQfAmq748UcklJcT-yKTri/w400-h209/897441431843694988.jpg" width="400" /></center>Dale 'Deli' Kelland of the <a href="https://nomadsmanitoba.com/" style="background-color: #fff2cc;" target="_blank">Manitoba Nomads</a> made global headlines in 2008 when he called on HA and their bums to fight back against biker discrimination. He compared the 'no colours' policy to discrimination Indians faced under the Indian Act.</td><td><img alt="" height="400" src="https://blogger.googleusercontent.com/img/a/AVvXsEhX-WHrRa3u6OG-OiZo49x12xYCEJS_XimMD44kpTgW3DuVUZxTvkGwxQL5IOSjwuwHWRPCtYiOZBfG70f_tuwK-4Ica1m1ThYyTl3acb-6RhMyLOkIdUqQzoauA5khqmVamFFIk8277d5yWMY8yiyJ5-0FmcfVDU79sBAdcezK7T4KUK0mIykPrTP2PiQ=w303-h400" width="303" /></td></tr></tbody></table>
+<table><tbody>
+<tr><td width="466"><img alt="" border="0" height="262" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbTpVtAaTf6-nMyV5GNxg0YoZSRVcCqpIAtXdGgdjELHgemHNHuK_YkFEFV64HFKeAqwomJ1RYn7K8_4nQglnQivo63UnGjl7BAocedEiQNRqXRuHbU9qPsD9BypjM3nEZVJRZ9uhqrGG24dT49JBepdXIEB-gxdxdB3tmInv5oKaqXtm9z3jzt2rf/w466-h262/k0oasf8fi7ylefftlpyr.webp" width="466" /><br /> In 2009 Dale Kelland, then President, was sentenced to eight years in prison for his role in a drug trafficking operation and for recruiting thugs to do the same.</td><td width="800">When Dale Kelland/Donovan heard bikers had been turned away from a hotel for wearing colours he called on his 1% world to slag the business online. "This treatment of Canadians was wrong then and it's wrong now" he spewed.
+ Legal experts said at the time what he was doing was a crime.<table><tbody><tr><td><img border="0" height="223" src="https://2.bp.blogspot.com/-A3wcS6rAE9k/Ws-jEgb-QnI/AAAAAAABLUc/85W6MRsk9_0pdUW4i-zkIgstQbfP7flaACLcBGAs/w297-h223/no-gang-sign.jpg" width="297" /></td><td> Criminal offences, including extortion (CC section 346) and intimidation (CC section 423) address organized crime activity. Under Manitoba law, the Hells Angels are a criminal organization.  This manner of damage to the club from  mouthy farmers is unthinkable.</td></tr></tbody></table></td></tr>
+</tbody></table>
+<table><tbody>
+<tr><td width="640"><img border="0" height="360" src="https://4.bp.blogspot.com/-5zPENlUTJi8/Ws0Ap0mgXOI/AAAAAAABLJw/5dXvGDL2vnYx7Fr6J2oag1Qq8FRYBCRngCLcBGAs/s640/dale-donovan.jpg" width="640" /></td><td width="800">  Supporters took to social media to express their displeasure with the Marion Hotel, where none had visited. The CBC did a feature and so did news outlets in Australia and Germany. Kelland/Donovan created a global storm with his vendetta against small businesses that refused to kiss his criminal, filthy 1% ass. Kelland/Donovan finally shut that hole, far too late for the club. </td><td width=202><img alt="" height="363" src="https://blogger.googleusercontent.com/img/a/AVvXsEhef62-VC8wCdePGooeA_SxwvTPBRPGKOIngMwlmE_n2EE2kvevtHkqVHKOP8vm4cNvyauuaIv8QmIVxoyC1JBDn6BV7r9wzH3JaipasN5Cf48m-ale9ETKPzEGj6txcXCwPHMhmPEqo_BrGfY9Do9fJH05ERG8qov3ybNIIm_UEPmd3eu2pZrdd4yz=w202-h363" width="202" /></td></tr>
+</tbody></table>
+
+<table><tbody>
+<tr><td width=320><img border="0" height="204" src="https://1.bp.blogspot.com/-7_-ibx-TIxg/Ws0DZ35aihI/AAAAAAABLKM/gys5DRwU_TU44Hu4nSxSdFU4pFY587yngCLcBGAs/s320/logo.png" width="320" /></td><td width=800>When the hotel removed its Facebook page, the biker hoard then attacked the Marion Street Eatery, a restaurant in the hotel. Within 24 hours hundreds, most from outside Canada, posted one-star reviews on the restaurant's Facebook page.  They later targeted a TripAdvisor website.
+Before attacking the hotel and eatery, Kelland targeted the Headingley Sport Shop Ltd./Indian Motorcycle in Winnipeg. Over the ensuing years Kelland/Donovan has apparently managed to keep that trap shut. </td><td><img border="0" height="213" src="https://3.bp.blogspot.com/-zqjs8RkfXcg/Ws0DffZIh9I/AAAAAAABLKQ/V6cb3MO0clQKoUwOvtd170YN4ujSxjvEACLcBGAs/s320/140328_Marion_Street_Eatery.jpg" width="320" /> </td></tr>
+</tbody></table>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=8289693643695891403&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8289693643695891403&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8289693643695891403&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8289693643695891403&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8289693643695891403&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8289693643695891403&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Saturday, December 23, 2023</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEgeXJbSe95XZs-h3637CkB8dMssDbTHnYg_JBmDYa70JH6U0APniEsxYjd2-A-KyCiya6FF-b50CzOZEhbDBs-XIXrbrJz8I0HmzG8kmpfgZsM775LmPWQ9EYnMLTmSJKiphVjRm-rC36DTZVTARJTdeYa9cww0JdukuV-9bJ3ihZxD96ig19P43rgyv7M=w441-h248' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='5896435053275377378' itemprop='postId'/>
+<a name='5896435053275377378'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2016/10/claudia-ochoa-felix-mexican-kim.html'>Claudia Ochoa Felix -  Mexican Kim Kardashian revisited</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5896435053275377378' itemprop='articleBody'>
+Claudia Ochoa Félix, the 'Empress of Ántrax' died in 2019 not from hired killers, but from a drug overdose. El Chino was killed in 2020.
+<table><tbody><tr><td width="400"><img alt="" height="248" src="https://blogger.googleusercontent.com/img/a/AVvXsEgeXJbSe95XZs-h3637CkB8dMssDbTHnYg_JBmDYa70JH6U0APniEsxYjd2-A-KyCiya6FF-b50CzOZEhbDBs-XIXrbrJz8I0HmzG8kmpfgZsM775LmPWQ9EYnMLTmSJKiphVjRm-rC36DTZVTARJTdeYa9cww0JdukuV-9bJ3ihZxD96ig19P43rgyv7M=w441-h248" width="441" /></td><td width="800">Claudia Ochoa Felix had a decadent lifestyle and army of bodyguards. The armed security of the Mexican beauty were not to protect her from over-zealous fans... but from assassins.
+After Los Ántrax boss Jose Rodrigo Arechiga Gamboa &#8211; known as El Chino &#8211; was arrested, his girlfriend was installed as the new chief. Her portrayal of a life of narcissism undercut her emphatic denial that she is La Emperatriz de Los Ántrax - the Empress of Los Ántrax, responsible for hundreds of bloody murders as the deadly Sinaloa drug cartel&#8217;s elite contract killer squad.</td><td width="215"><img alt="" height="275" src="https://blogger.googleusercontent.com/img/a/AVvXsEhW5bXA0oHBfJFACrojPSex80X7f031hpMfQ3cimOuG279Ua6ryzsAn4LvxNCVQK54MyHylhVNPN6icokwfTjU3_str5T5rfu32FBYFWoA2wHXzrGsE2bd5y3tHjdOgXs9BkaJcsHX1UC37nnhA-fT762XLCTqzkEQAcsVwLs9dTv8EhTL430FtEXyM8fo=w215-h275" width="215" /></td></tr></tbody></table>
+
+<table><tbody><tr><td width="320"><img border="0" height="320" src="https://1.bp.blogspot.com/-lXJiRJaNnEU/WAP7T6M3ldI/AAAAAAAAt2g/q1sp92M5sxcJpKZV7I8MSVj8F9fb7BacQCLcB/s320/3a3cf85f85e4a1a1970e12e551281304.jpg" width="320" /></td><td width="800">Anyone who stands in the Sinaloa cartel's way is killed, with El Chino responsible for many murders.  Countless victims have been executed by the gang&#8217;s trademark chainsaw beheading.  <center> <img border="0" height="243" src="https://3.bp.blogspot.com/-MHi6wvIJ7No/WAP6DlBrhoI/AAAAAAAAt2U/svVf8YZNmG4wpg4fQ_2iymYIbhu28qz2QCLcB/w366-h243/Claudia-Main.jpg" width="366" /></center></td><td width="262"><img border="0" height="320" src="https://2.bp.blogspot.com/-gjQdjePn538/WAP7bB5Ki0I/AAAAAAAAt2k/8NCXzWxvcJg2OZdhos_teauLCghxp_ZjACLcB/s320/Claudia-Ochoa-Felix.jpg" width="262" /></td></tr></tbody></table>
+Despite a failed assassination bid, Felix refused to quit her champagne and caviar lifestyle. Claudia Ochoa Felix was often seen in the clubs of Mazatlan, Culiacan and Guadalajara, but always surrounded by gunmen.<br />
+See -----&gt;<a href="https://www.gangsterismout.com/2020/05/jose-rodrigo-arechiga-gamboa-chino.html" rel="nofollow" target="_blank">Jose Rodrigo Arechiga Gamboa - 'Chino Antrax' whacked</a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=5896435053275377378&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=5896435053275377378&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=5896435053275377378&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=5896435053275377378&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=5896435053275377378&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=5896435053275377378&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEiilDq4UzlObr17rC6R0dB8QXpOloFyUAqERnSEs8d0Yejva8CPrqMl6yHA1PotXX3wypKVwwaMG-vcOb7XdoERxSlQDtFQNZ1XLDmxwmdpWGzB7-jHyoMtp9rBWW3AkjxdD-dP3kikchx62RIbt8WNcptpcUtqoD5R93Dk6bX0sjs_lu4qRBPymJlUxdI=w640-h430' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='122228151127530330' itemprop='postId'/>
+<a name='122228151127530330'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/nj-pot-and-cocaine-run-goes-bad.html'>NJ pot and cocaine run goes bad</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-122228151127530330' itemprop='articleBody'>
+<table><tbody><tr><td width="640"><img alt="" height="430" src="https://blogger.googleusercontent.com/img/a/AVvXsEiilDq4UzlObr17rC6R0dB8QXpOloFyUAqERnSEs8d0Yejva8CPrqMl6yHA1PotXX3wypKVwwaMG-vcOb7XdoERxSlQDtFQNZ1XLDmxwmdpWGzB7-jHyoMtp9rBWW3AkjxdD-dP3kikchx62RIbt8WNcptpcUtqoD5R93Dk6bX0sjs_lu4qRBPymJlUxdI=w640-h430" width="640" /></td><td width=800>Edwin Spears, 49, and Leonardo Petrosillo, 45, were indicted after feds seized 28 pounds of cocaine and 500 pounds of pot from a private jet at Teterboro Airport in New Jersey. 
+The plane was headed to Liverpool John Lennon Airport, but the aircraft never left on Nov. 16 due to turbulence &#8212; US Customs and Border Protection.
+  <center><img alt="" height="205" src="https://blogger.googleusercontent.com/img/a/AVvXsEjimPAYcdlFm1xv47a0Vz1TbQGDabRjoFjCJk20poQpIrWwAEuLFRWp8IFghhmvKwjVl6ncaACHEDyXQHkJuSReCoRmrCCuLxt3yKr8r8q4iCVpT-UAZv_nH38GiPtDCUkiB5JkfsRbS6jMCHnLUnqo3Khy8HB5_QRj6r6BPy4uQPHGZHAhyaZrUYz8kVo=w391-h205" width="391" /></center>Surveillance footage showed Spears and Petrosillo move the drug-filled luggage from their vehicles into a hotel near the airport and then to the plane.
+
+ </td></tr></tbody></table>
+<table><tbody><tr><td width="380"><img alt="" height="400" src="https://blogger.googleusercontent.com/img/a/AVvXsEhkyEjXWfAQOi1DuWArYDp-SNApgEfX6hcJPcauP_vmCL6_shTkbrtC-SEUu-3CKerHjtNLsdatwFXQUZZ_7Vez0q0TOZdniLF1ZMZPQZ0o-HoQ2ZZbUf1mDpcMajlFUuK5fnFzG4o9Jt5qmL8c6nmCem9ZW8yUuOqb_0E82SrTn4YTqzxCEVjgn-TWJ5U=w380-h400" width="380" /></td><td width=600>Spears has a criminal history dating to 1992, and was collared in 2010 on charges of money laundering, bribery, and racketeering. Described as a 'five-star general' of the Nine Trey Bloods, he has ties to the Lucchese crime family and others. Spears and Petrosillo pleaded not guilty to drug conspiracy charges in Brooklyn Federal Court. They are jailed in the Metropolitan Detention Center in Brooklyn.</td><td width=466><img alt="" height="371" src="https://blogger.googleusercontent.com/img/a/AVvXsEjMZ-8tZtyXwhXUy2Sfa3DSeYtQIhdhgVaX5gnij16BKBsM1_TAGkdCvUuM5zensSMj0tTSRvxpjRUImJDBlztwEq8FhqZMuQfNpfkgjo8mct2izvAiAtnu5i0yDYfZB_1qhqQj58lV_IACk0QU3GbwdOc9JZ2HFT0XdsprQqzUWuivgPcJYGuxfj0KUJo=w466-h371" width="466" /></td></tr></tbody></table>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=122228151127530330&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=122228151127530330&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=122228151127530330&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=122228151127530330&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=122228151127530330&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=122228151127530330&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEgOBuy610vjp-RidKK84eyKX0aOEHMPlrkfZZU99X4w6ldTJxJgsQp3r9C2GEJUQl2S_2UM0Xw4Xn5R19vrCrUeG7ymzrdFJrD0Zm7kCOCoP7N_V6Ld2CvqGVgMxCoB-jB2wysD_mcPGRWi1o-4zdDsrAU174pRB6btDDD-H1bH6LzOqtarqcUaXU0pg74=w301-h320' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='8741999604384265005' itemprop='postId'/>
+<a name='8741999604384265005'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/montreal-cops-land-huge-gold-stash.html'>Montreal cops land huge gold stash </a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8741999604384265005' itemprop='articleBody'>
+<table><tbody><tr><td width="301"><img alt="" height="320" src="https://blogger.googleusercontent.com/img/a/AVvXsEgOBuy610vjp-RidKK84eyKX0aOEHMPlrkfZZU99X4w6ldTJxJgsQp3r9C2GEJUQl2S_2UM0Xw4Xn5R19vrCrUeG7ymzrdFJrD0Zm7kCOCoP7N_V6Ld2CvqGVgMxCoB-jB2wysD_mcPGRWi1o-4zdDsrAU174pRB6btDDD-H1bH6LzOqtarqcUaXU0pg74=w301-h320" width="301" /></td><td width="800">Montreal cops stumbled on a huge cache of gold while carrying out a raid to seize illegal guns. Police arrested seven and seized nine firearms, a kilogram of cocaine, and 1.5 kg of meth. They also confiscated $500k in cash and &#8220;a large quantity of gold.&#8221; That 'large quantity' is said to be hundreds of thousands worth. In the annals of Montreal crime, the seizure of gold is extremely rare. In 40 years there is only one comparable story. In 1994, provincial police carried out a series of raids on the West End Gang, seizing 26.5 tonnes of hash at the Port of Montreal, along with $800k cash and two 2 kg bars of gold. <b>NATURALLY</b> folks are asking about the fate of the gold from the Toronto airport heist this spring.</td><td width=320><img alt="" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEg974N2ArkrGMbF52kcBfcuIE_sXRlpjVNav7HY8pFiUie_hM2_jmBa9SNEYJcE2FDFSHgOwRKDkNePYxm6jP5y2eFGtxvvtaHINkPLt40_3Nnv33keEZ9YjejcnHBXZhV3H08zZHpGrlc3_6dWMhXFacwm8Hw3j17XkK3__goqtk84nLu7t1Ot-trrMpw" width="320" /><br> Brink&#8217;s says a thief used a fraudulent waybill to steal 400 kg of gold worth $20.4m. </td></tr></tbody></table>
+See -----><a href="https://www.gangsterismout.com/2023/04/20m-gold-heist-at-pearson-airport.html" target="_blank">$20m gold heist at Pearson airport</a>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=8741999604384265005&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8741999604384265005&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8741999604384265005&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8741999604384265005&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8741999604384265005&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8741999604384265005&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEjnkaSTDXgr1tIS9gNP4mUNgseh4rpZhO-m7OuEkQIIcD2R4P_2neNfBsbRIiIAJ4RSX9H82tloQ3hs9PqnyyFDxGuksRrxHXq7X7V8nY2zFoCGZJPSimGfTRf5NOoJQL-sWcD-QzuPCJRKevEqgIG5ouVFmm22un88XvYmDrwGzj-Ngn4_1QmbIFQasJI=w400-h225' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='6732234620607663762' itemprop='postId'/>
+<a name='6732234620607663762'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/carlos-orense-azocar-el-gordo-trial.html'>Carlos Orense Azocar - 'El Gordo' guilty</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6732234620607663762' itemprop='articleBody'>
+<table><tbody><tr><td width="400"><img alt="" height="225" src="https://blogger.googleusercontent.com/img/a/AVvXsEjnkaSTDXgr1tIS9gNP4mUNgseh4rpZhO-m7OuEkQIIcD2R4P_2neNfBsbRIiIAJ4RSX9H82tloQ3hs9PqnyyFDxGuksRrxHXq7X7V8nY2zFoCGZJPSimGfTRf5NOoJQL-sWcD-QzuPCJRKevEqgIG5ouVFmm22un88XvYmDrwGzj-Ngn4_1QmbIFQasJI=w400-h225" width="400" /><br />The kingpin moved upwards of 1 tonne per week.</td><td width="600">A Manhattan jury found Carlos Orense Azocar, 68, guilty on three counts related to importing cocaine into the U.S.  Orense, 'El Gordo', the Fat Man, worked with the Cartel de Los Soles and the Fuerzas Armadas Revolucionarias de Colombia (FARC) guerrillas to smuggle cocaine. Former Venezuelan General Hugo Carvajal, who also faces drug charges in New York, has been fingered as a key player. He was the former head of security for the country.</td><td><img alt="" height="210" src="https://blogger.googleusercontent.com/img/a/AVvXsEjiRsSu34VogCGfJmaKAIxCTtKUWkbQm7rTmgCzeQqSkZ-R574WfhEIebaeMitVUosbpERptzAZdEPHllp01F5zh2y3EOCwGpNHSwdDdfApT85xznpASJSW-XPZdR9ck0leYtj_Nx-OEKLIjPwQZLPHQwEej1n4xq_GInl7iHPBH4y6G5UakNdYSS9MBdc" width="320" /></td></tr></tbody></table>
+<table><tbody><tr><td width="640"><img alt="" height="400" src="https://blogger.googleusercontent.com/img/a/AVvXsEg_n-yOgdcj9cWEE2BoKsyONsqchUDt5teQTilWbVm3jfq1oOJyeogfLR4HIik--kWgnIAsHgImuHWQVYHcQUONYXnH0yT3A9CgGhNIWzjZyhjvMyXR_nSfmIiGaGOLQkTYCWc-iyfXPBhy0JZebH2HcMIYrWMrUveM6LezRJogYmu2bdBAcWR-Q1VUtxw=w640-h400" width="640" />
+  
+  
+  
+  
+ </td><td width="800">Drug proceeds, described as huge, were laundered through a U.S. company which is wholly owned by Venezuelan state-owned Citgo.  Drug-laden planes from Colombia landed in airstrips near the Venezuelan border, while security armed with AK-47 rifles stood guard, some of them wearing uniforms from the Venezuelan military. Documents claim that millions were paid to Venezuelan military officials to ensure the smooth running of the operation.
+  <center><img alt="" border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKgamms5Na8-tUE2k-r_PwmDLuAWp8a57vej7efx0ZDRT0UKbrjvSRAlXkjNTgae2wcm_GPCeFs-2N7NdRveeu-V2zBXSLijjxt46IZNABvaQcTSRXeMgLe6MDhPjgg6iyk4qiGSuU_aOX6QO7hXjcbQ4KUjQKc4HE8-YsPmLDw2Vj8cbNhdPRjaEXdyI/s320/22venezuela-videoSixteenByNine3000-v2.jpg" width="320" /></center></td></tr></tbody></table>
+'El Gordo' is looking at life.
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=6732234620607663762&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=6732234620607663762&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=6732234620607663762&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=6732234620607663762&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=6732234620607663762&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=6732234620607663762&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Friday, December 22, 2023</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEh866S0o-KOJy101CO--Vb02yOxb9WTKaWtb-oaVNWasrQmpEW-1BVsGk-qMFbyC5nbMwRSgpkF2y5eiqplfXr0dvK7-kNb2DuRETevImh0SzTdMhfLyfztiwwgABQ4-W47wFhWkwQLcFNdxXaMTAV4aMqxrlTRgvLEr2Pvc_oMZ0TIV-ZunsDooycDjKY=w640-h478' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='2227534722512946566' itemprop='postId'/>
+<a name='2227534722512946566'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/wilder-sanchez-farfan-gato.html'> Wilder Sanchez Farfan - 'Gato'</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2227534722512946566' itemprop='articleBody'>
+<table><tbody><tr><td width="640"><img alt="" height="478" src="https://blogger.googleusercontent.com/img/a/AVvXsEh866S0o-KOJy101CO--Vb02yOxb9WTKaWtb-oaVNWasrQmpEW-1BVsGk-qMFbyC5nbMwRSgpkF2y5eiqplfXr0dvK7-kNb2DuRETevImh0SzTdMhfLyfztiwwgABQ4-W47wFhWkwQLcFNdxXaMTAV4aMqxrlTRgvLEr2Pvc_oMZ0TIV-ZunsDooycDjKY=w640-h478" width="640" /></td><td> Wilder Sanchez Farfan - 'Gato' (The Cat) is a drug lord with ties to Mexico's Jalisco New Generation cartel. Wanted in the United States,
+
+Farfan was arrested in Colombia in February. The U.S. Treasury Department calls him "one of the most significant drug traffickers in the world."<center><img alt="" border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJVam6Kg-oewrztpfekmqJuFH1lVeK3msfg1esPPRwfmqv1pIznkZmzi3xoRjPJnq8d2ExekqmuT78jCj4ibXSCT-8JBtnq-YMnxzg0EsXWyd0uqymwUlC0jFzg1aTRLTGYfTaDOqJtZ155Qnj1x-MpEKS_0qs29daVI-YCs7BAnrYrsdCMtiXzJR6c8A/s320/wilder-sanchez.png" /></center></td></tr></tbody></table>
+
+
+<table><tbody><tr><td width="400"><img alt="" height="306" src="https://blogger.googleusercontent.com/img/a/AVvXsEie_SB8FPv-HonqRRqgBupEVzdW6eDluDaI876xAtYAzBtXdFvkbjOVGg5d7tJNJrZuTX6g5FfhFEiZf0esGhqUdGECHvur5NKZ5FcbqyoA-5BLnQddH2LPhQjFb82taqu5P7BMC0DvmkAkIleqbl3xu4wOl2_C3E0eIfRfyls7AXKeBtGdNcrt2YB2wAM=w400-h306" width="400" /></td><td width="880">Gato Farfán is the leader of the Ecuador New Generation Cartel (Cartel Nueva Generación Ecuador), a coalition of several Ecuadorian gangs including the Lobos, the Tiguerones, the Chone Killers, and the Lagartos, among others. Coordinating and transporting cocaine shipments from Colombia through Ecuador for at least a decade, Gato Farfán helped develop Ecuador into the major drug trafficking hub it is today.<center><img alt="" data-original-height="405" data-original-width="764" height="203" src="https://blogger.googleusercontent.com/img/a/AVvXsEgq4oLv7-0ZtPKPWPEJprHR2Fsa_OV_ebIsQhBn7BQT3Q_6Iwg8onbRVS8Qsue_kG5mssFPhbQQSYo9Sakf0ZvTvTKhjGy1IkIhazOn2tY-32yPA6Kj5QyJu0QbiuN2uWmk4eZVx0nRQKDt6gL_UGOxtzmqOh6nchTVLsUmM_bNWUutRn2wohwSyDPhHzg=w381-h203" width="381" /></center></td></tr></tbody></table>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=2227534722512946566&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=2227534722512946566&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=2227534722512946566&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=2227534722512946566&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=2227534722512946566&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=2227534722512946566&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='https://blogger.googleusercontent.com/img/a/AVvXsEjcc6L3HSawf1u8bvDGDy5XhnkpUMGI2GOH9DBqisv4x5Q-E56-hzmDV_XwEujfxQ8nwl20F7yXE3fHvh5SmTiNn08fykqgurPyKcEMyKuVK8ooumXvwp84beOXCelnoR5u5H48XJgYFrkSHAKKqIETh_KXdNM1S8EtGk_bsegKqFq84eXBOdzlUK7EoP8=w400-h400' itemprop='image_url'/>
+<meta content='6344200803715377367' itemprop='blogId'/>
+<meta content='8734877266928703079' itemprop='postId'/>
+<a name='8734877266928703079'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='https://www.gangsterismout.com/2023/12/ramin-yektaparast-hamc-iranian-terrorist.html'>Ramin Yektaparast = HAMC Iranian terrorist</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-8734877266928703079' itemprop='articleBody'>
+<table><tbody><tr><td width="400"><img alt="" height="400" src="https://blogger.googleusercontent.com/img/a/AVvXsEjcc6L3HSawf1u8bvDGDy5XhnkpUMGI2GOH9DBqisv4x5Q-E56-hzmDV_XwEujfxQ8nwl20F7yXE3fHvh5SmTiNn08fykqgurPyKcEMyKuVK8ooumXvwp84beOXCelnoR5u5H48XJgYFrkSHAKKqIETh_KXdNM1S8EtGk_bsegKqFq84eXBOdzlUK7EoP8=w400-h400" width="400" /></td><td>Germany protested to Iran after a court ruling implicated the Islamic state in a plan to attack a synagogue last year. A German Iranian man was sentenced to 30 months for the arson. He was tasked by Ramin Yektaparast.<center><img alt="" data-original-height="630" data-original-width="1200" height="336" src="https://blogger.googleusercontent.com/img/a/AVvXsEjadYCYFiImzM6FwcME9YN70ACW16-yj0i0DPmTe6DDGzzM8ldj3FwOrBo5tYWilix9T8I1ff9Is1HFmQn2zbPb_DFwXxLG8JsUWp3y0Cu3i7hvbpiVVtSSpH-RJcDk1A7OI77f0JNvOwbTTFSLZjo6NFHDR-I_T6RM8PLkA4PK_mpSUL5dnISYfMnXT9Q=w640-h336" width="640" /></center></td></tr></tbody></table>
+<table><tbody><tr><td><img alt="" height="526" src="https://blogger.googleusercontent.com/img/a/AVvXsEjMT4_CRf9xg_-Qf0Yr0aarkssxzZtrrsRM78VRhg0sXGdsdv7MH6gacpkcLtL6_zN2wTrsYOssoOFrOQQRqxFqQ1XeG3RZKRcPkj_j0yNxI8HNzL5lS-gYEEJe88WvLOnznA94zcDR1iwPJ0HHWTPez3O4UWjnyDamJ4k8I9HjPQVtH1B6PrmxkyXe=w339-h526" width="339" /></td><td>Iran recruited fugitive Hells Angels boss Ramin Yektaparast to launch terror attacks on German synagogues. Yektaparast is a key criminal in attacks on two synagogues. Yektaparast is wanted by German police for carrying out a brutal gangland murder. He fled to Tehran in 2021 where he was put to work by the Revolutionary Guard to organize terror attacks. &#8220;We are talking about state-organized terrorism,&#8221; an investigator said.  Cops in the state of North Rhine-Westphalia have increased security measures around Jewish buildings. Cops are now equipped with semi-automatic assault rifles and wear bulletproof vests.<center><table><tbody><tr><td><img alt="" border="0" height="264" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTq7eRrtDcSQOk1krhvz4JjOKqlWpluyUxwtAAzvOy0qDAvzVP17Rdc8uEhkGyScaGi5B8-xcNSpmX1_vajWvvA_KrYC_hvAi8SHYNQsivR1RNT6_1RLSPDyDXd-kCiHaQkdDehCzbUpY98t7R5ofEgzBHCh8KfFymnovaBTmIenjaXp-cf7D0f8-U/w468-h264/cd876514a20764a66e26c3e5c67c7045,2d798aa9.webp" width="468" /> </td><td>HA Kai M. was murdered and dismembered by Yektaparast. His arm was found in the Rhine. Yektaparast shot him in the back of the head. Six HA are charged with murder.</td></tr></tbody></table></center>
+Yektaparast's photo appears prominently on the MGCity Facebook page. <a href="https://www.facebook.com/support81mgcity/" target="_blank"><b>Here</b></a>. Traitorous German HAMC are in the business of state terrorism for Iran.<br />
+  <br />See -----&gt;<a href="https://www.gangsterismout.com/2021/09/cops-on-hunt-for-boss-of.html" target="_blank">Cops on the hunt for HA boss Ramin Yektaparast</a></td></tr></tbody></table>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+</span>
+<span class='post-timestamp'>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1530654174'>
+<a href='https://www.blogger.com/post-edit.g?blogID=6344200803715377367&postID=8734877266928703079&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8734877266928703079&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8734877266928703079&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8734877266928703079&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8734877266928703079&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=6344200803715377367&postID=8734877266928703079&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://www.gangsterismout.com/search?updated-max=2023-12-22T08:42:00-08:00&max-results=20' id='Blog1_blog-pager-older-link' title='Older Posts'>Older Posts</a>
+</span>
+<a class='home-link' href='https://www.gangsterismout.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='https://www.gangsterismout.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Posts (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='widget-content'>
+<center><iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=14&l=ur1&category=outlet&banner=0KVZNKG64C5R895PMPR2&f=ifr&linkID=f42fc23d2a2f293cdd6cc58a68966545&t=drstoxxman-20&tracking_id=drstoxxman-20" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe></center>
+</div>
+<div class='clear'></div>
+</div><div class='widget Stats' data-version='1' id='Stats1'>
+<h2>&#160;</h2>
+<div class='widget-content'>
+<div id='Stats1_content' style='display: none;'>
+<span class='counter-wrapper text-counter-wrapper' id='Stats1_totalCount'>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget BlogList' data-version='1' id='BlogList1'>
+<div class='widget-content'>
+<div class='blog-list-container' id='BlogList1_container'>
+<ul id='BlogList1_blogs'>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdXe0ZDWUo0HWa_KyOBfuLtZSSxh-JxOVHcKClKc1jG1surGQPHI62NpBJL2qumM1Ywrdjl8A294Nux-6chGbkRE4Ii5Z4M5JGtTW_XGdKY=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://psjfactoids.blogspot.com/' target='_blank'>
+Ancient Artifacts</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://psjfactoids.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='https://3.bp.blogspot.com/-0vI7MKHjf7w/XNeJpmB6npI/AAAAAAABfhg/UZjWDZUL9dUj0-6MNhUzP1rSfJDDIICQwCLcBGAs/s72-w416-h234-c/content-1557150360-01-seven-wonders-rhodes-optimized.gif' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://psjfactoids.blogspot.com/2023/12/the-colossus-of-rhodes.html' target='_blank'>
+The Colossus of Rhodes
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+The Colossus of Rhodes was a statue of the Greek god of the sun Helios, 
+erected in the city of Rhodes in 280 BC. 
+
+Colossus of Rhodes by Giovanino One of t...
+</span>
+<div class='item-time'>
+1 day ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdXQIoOGe9fwunviUk9SgBulvymBVcbn8gzCn7WyVEgZ4b4MA7A-gd5Z60tkNiWdon8k0XNtyFb_PlcdICUdQLVun2myrCXHjluCdtNNcD4mbiM=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://superautoworld.blogspot.com/' target='_blank'>
+SuperCarWorld</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://superautoworld.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='https://blogger.googleusercontent.com/img/a/AVvXsEhjgwG-elrkLe56wxE03Imosg8sNQl4XzYGZUgfk-GFwV5rt5b9yB7RUCMgu7oIWYtX9l2u-OOzkli0I7iNb6rTpfF-VD82nhkpQkEMhlnEfChtLnmXlVqnfSqWp2YSpClh8akdIA7FdmreSHggf5Jv-AVoqcWVS0zFka348m7gVIR7rI0moNth1XhkoAQ6=s72-w640-h360-c' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://superautoworld.blogspot.com/2023/12/1969-ford-mustang-boss-429.html' target='_blank'>
+1969 Ford Mustang Boss 429
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+9,975 miles. KK No. 1400. 429 CI V-8 820-S NASCAR V-8. 4-speed. Wimbledon 
+White over black. Used as a Hoffman Ford promotional showroom display car 
+in 196...
+</span>
+<div class='item-time'>
+3 days ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdXYDj6GmRcneucJHL2Hs3IdfCxXUbiFVzv9RAzVeLyRqMiBa1SDrKNB6WxHT5MprktTrx16-LmkKdsvidj_-8cn0Jiaxet3IFFNmA9m22-tGaVM=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://doctorstoxxman.blogspot.com/' target='_blank'>
+Doctor Stoxxman</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://doctorstoxxman.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='https://blogger.googleusercontent.com/img/a/AVvXsEjtuY6qPy-TVFm_G1qqiBjkqNohl4SFutZIX4V2io6huOORo-T5is41Ce69Q5yACO8W7Xgxr__J73KTFpUgYrGxz0NJ_ZMyCYrwUDs4tClLfTGpLj5isv1uAWzTFn6UucwbPEm5InuTzkfzp7V9_5jJmrXMqYh_n08XppAfB64b2I7DBN5L-eA9tIwATN-E=s72-w354-h199-c' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='https://doctorstoxxman.blogspot.com/2023/12/neotech-metals-corp-ntmcc.html' target='_blank'>
+Neotech Metals Corp. - NTMC.c
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+"The company will pay a fee of $500,000 (U.S.) for the continuation of the 
+marketing services. " Here. https://thefinancialstar.com/ 
+(info@thefinancialstar...
+</span>
+<div class='item-time'>
+6 days ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdWoy8IkOvTz40bJjWU_xa_oDqQ1-N5l3Lgopkn9ck1-qB0aFh4EVCODEB-KotkgUuvcKMdCsDFXZGAY1890F7WWFE9TXE5LRvS7_B6R7-91HHsE0gCQZw=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://highlifelivingluxury.blogspot.com/' target='_blank'>
+High Life</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://highlifelivingluxury.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguxKPSuocu5Ft-1lp5fn6ZaGvugOGChz8MrzMyKuKUFzkXhKleXESAroY9web8sBf0TKETCkVk8IsTQwf0MXZ2UvtOmv3UW7GrCmJd84OmsC5ZSsBztZWSpF-O8-fDdxYf7wnN8JAtq423kpWT4NY9tP_B81ygJHB8D0Lg2wAKz21J3pMYNPtbcqd11urN/s72-w640-h270-c/lot6v12_bigger.png' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://highlifelivingluxury.blogspot.com/2023/12/rio-tintos-beyond-rare-tender.html' target='_blank'>
+Rio Tinto's 'Beyond Rare' tender
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+The collection showcases 48 lots of exceptional polished diamonds, 
+including legacy inventory of pink and red diamonds from the Argyle diamond 
+mine and ye...
+</span>
+<div class='item-time'>
+3 weeks ago
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget BlogSearch' data-version='1' id='BlogSearch1'>
+<h2 class='title'>Search Blog</h2>
+<div class='widget-content'>
+<div id='BlogSearch1_form'>
+<form action='https://www.gangsterismout.com/search' class='gsc-search-box' target='_top'>
+<table cellpadding='0' cellspacing='0' class='gsc-search-box'>
+<tbody>
+<tr>
+<td class='gsc-input'>
+<input autocomplete='off' class='gsc-input' name='q' size='10' title='search' type='text' value=''/>
+</td>
+<td class='gsc-search-button'>
+<input class='gsc-search-button' title='search' type='submit' value='Search'/>
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.gangsterismout.com/2022/06/mr-flashy-david-glen-ward-runs-for-life.html' target='_blank'>
+<img alt='' border='0' src='https://blogger.googleusercontent.com/img/a/AVvXsEgvZ4luC4bpdr-MjiaVvSW442DZuydAsKB4XXqUhlTW1Jq7U7fPA_QRksjqI996qsH0KzUUpFxoua-VbFUwEys6PWCxHvaUXdgElaXojjaivY_861bRIloQ-wolf2H5GhHy39mFHuglYA3dhx1N4d7rAsXkiEWmHbjfc--JhzgkiC9aj8IJwZj6KbPwESQ=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.gangsterismout.com/2022/06/mr-flashy-david-glen-ward-runs-for-life.html'>Mr. Flashy - David Glen Ward  </a></div>
+<div class='item-snippet'>Mr Flashy gangster sliced to ribbons after gun jams  Thugs of the shot 3 times Hennessy Sr have sworn revenge. Jason Hennessy was unharmed. ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.gangsterismout.com/2016/06/hells-angel-damiano-dipopolo-and-de.html' target='_blank'>
+<img alt='' border='0' src='https://1.bp.blogspot.com/-TvIY20ahjXs/VdZtryu06EI/AAAAAAAAL6s/Ve3E5ue5ltQ/w72-h72-p-k-no-nu/brandon-hughes-north-vancouver-homicide-victim.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.gangsterismout.com/2016/06/hells-angel-damiano-dipopolo-and-de.html'>Damiano Dipopolo - Brandon Vito Huges - "a nice boy"</a></div>
+<div class='item-snippet'>Brandon Vito Hughes&#39; killers were waiting for him on July 23, 2009.     Call IHIT at 1-877-551-4448, IHIT File#2009-6580, or anonymously...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.gangsterismout.com/2022/05/port-of-vancouver-368th-out-of-370.html' target='_blank'>
+<img alt='' border='0' src='https://3.bp.blogspot.com/-1drnjgarmzc/VczHga3PYcI/AAAAAAAALVA/3V47fOKNxxE/w72-h72-p-k-no-nu/1174329772age.png'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.gangsterismout.com/2022/05/port-of-vancouver-368th-out-of-370.html'>Damiano Dipopolo kicked out of HAMC - 'person of interest'</a></div>
+<div class='item-snippet'>Multiple sources are saying Damiano Dipopolo is out in bad standing. The reason isn&#39;t known, but its rumored to involve betrayal of HA. ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.gangsterismout.com/2023/03/10m-in-stolen-cars-recovered-in-latest.html' target='_blank'>
+<img alt='' border='0' src='https://blogger.googleusercontent.com/img/a/AVvXsEimSrw8t0iLkwAYGrp0U3Bjs-wTl1-09RlJBHXvh0IxGjFOgaHzuPKA6YmpNktIs_dG77aRTbQpnVyrDr_kHtjuqQL4lPZ4Sm2kpNqfl5lptYMYRxzB_bVICy-ajEcl6LZLyVuNaVOG5yDBxdRCUzxb7OkBbQ40if9EAD0wCH17KAc17RnLCYT8n5mi=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.gangsterismout.com/2023/03/10m-in-stolen-cars-recovered-in-latest.html'>$10m in stolen cars recovered in latest GTA bust - Project Majestic revisted</a></div>
+<div class='item-snippet'>            Peel cops recovered 78 stolen vehicles after an investigation into an auto theft ring this spring. 64 returned to Canada from Ma...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.gangsterismout.com/2022/07/frederick-silva-in-news.html' target='_blank'>
+<img alt='' border='0' src='https://blogger.googleusercontent.com/img/a/AVvXsEhlN6KIu6XCeW0-qU7uwjc9N-QeQEosYzBIOav1plvst4LikyXQE_GCxj0OceXUYILJ5mWtd1Foz5Hv60CP2eZeondPOYRVWbtgKZV4oZaVPv4mIX7eAZcxqL0tg-EJ5qI1nxy1ZdlCbyNDaLyrSOw_e7IaIbGQkIT_8ngJLs0yve8oAF2l_B2ep4UC03o=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.gangsterismout.com/2022/07/frederick-silva-in-news.html'>Frédérick Silva in the news - update IV</a></div>
+<div class='item-snippet'> Pietro D&#39;Adamo was sentenced to 80 months in prison in 2009 for conspiracy, possession of cocaine and gangsterism.     Homes of high-pr...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.gangsterismout.com/2023/12/quebecer-with-ties-to-hells-angels.html' target='_blank'>
+<img alt='' border='0' src='https://blogger.googleusercontent.com/img/a/AVvXsEgTyqV4bFqBvjZXV2YeROFDiAnuci1j9Y4Za4qkou5nnhtaaDdmXreF3UzQyYtqgfIWshmdiL5QR3XDV70vFRPMd9Xkkt-PY3CR7huaaCqL-y23SoazhSFl30dabm-U1rgi99YTFQFlToT-qIPlzKDznTYOtEurbqH__-NvCCTKC1UmrVXaDs6u57ElEUc=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.gangsterismout.com/2023/12/quebecer-with-ties-to-hells-angels.html'>Quebecer with ties to Jean Richard Larivière killed in Mexico - update II</a></div>
+<div class='item-snippet'> Mexican cops released images of the killers of Samy Tamouro. The shooters went straight for Tamouro, who was working out at the Total Sport...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.gangsterismout.com/2016/09/oregon-man-with-bizarre-mugshot-series.html' target='_blank'>
+<img alt='' border='0' src='https://lh3.googleusercontent.com/blogger_img_proxy/AJ0KDdXI1tnLL2ZtaKyl1z3f-x1L_jrn1p2VG8JwR93U7pygIqh6-IqqMmcti0OxxjBdOgNTJkU5qoLuM3uVo9dEmAmctQpKjL6JbKQAJ_5ZFeNvKOcJog=w72-h72-n-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.gangsterismout.com/2016/09/oregon-man-with-bizarre-mugshot-series.html'> Matthew Medlin mugshot series  - revisited again</a></div>
+<div class='item-snippet'>Matthew Medlin remains enigmatic after 3 years, which suggests the recidivist may not be still among the living. There doesn&#39;t seem to b...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.gangsterismout.com/2023/12/mr-flashy-gangster-sliced-to-ribbons.html' target='_blank'>
+<img alt='' border='0' src='https://blogger.googleusercontent.com/img/a/AVvXsEgvZ4luC4bpdr-MjiaVvSW442DZuydAsKB4XXqUhlTW1Jq7U7fPA_QRksjqI996qsH0KzUUpFxoua-VbFUwEys6PWCxHvaUXdgElaXojjaivY_861bRIloQ-wolf2H5GhHy39mFHuglYA3dhx1N4d7rAsXkiEWmHbjfc--JhzgkiC9aj8IJwZj6KbPwESQ=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.gangsterismout.com/2023/12/mr-flashy-gangster-sliced-to-ribbons.html'>Mr Flashy gangster sliced to ribbons after gun jams - update</a></div>
+<div class='item-snippet'>Internet gossip suggests 2 thugs abandoning the doomed Tristan Sherry in a white Audi included Mr. Flashy. Thugs of the shot 3 times Henness...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.gangsterismout.com/2018/04/ha-jean-richard-lariviere-has-patches.html' target='_blank'>
+<img alt='' border='0' src='https://3.bp.blogspot.com/-jP5qLLdjvEY/WslbTocgadI/AAAAAAABLBE/khnPZqMSZbEKFgVLgkugGilrCtkppnDUQCLcBGAs/w72-h72-p-k-no-nu/EB.jpg'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.gangsterismout.com/2018/04/ha-jean-richard-lariviere-has-patches.html'>HA Jean-Richard Larivière </a></div>
+<div class='item-snippet'>Jean-Richard Larivière was imprisoned in 2001 as the biker war was coming to an end. Larivière controlled drug and cash &#39;banks&#39; for ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='https://www.gangsterismout.com/2023/11/bikie-dayne-brajkovich-selling-his-huge.html' target='_blank'>
+<img alt='' border='0' src='https://blogger.googleusercontent.com/img/a/AVvXsEj6Ya8Qi1750Zh1UqHkFr9_j3DiSrAf35necH2lsvqK8iZaVC1-WJSvkuBpwtG0lBeOchqD1CJo8ugmJ0Nf2KAT4leEM7b1xSNzIiWKO8_qPp-b-zCWJmxEGbuN9bB5fsI-J1kwQ8Aok0vN3dP0Ls8rJc5J2uRKI6_QGExMrYdW023F-P-Z1ze-fb1mOX8=w72-h72-p-k-no-nu'/>
+</a>
+</div>
+<div class='item-title'><a href='https://www.gangsterismout.com/2023/11/bikie-dayne-brajkovich-selling-his-huge.html'>Dayne Brajkovich selling Death Heads - update III</a></div>
+<div class='item-snippet'>Dayne Brajkovich was stabbed in the neck outside a concert during an altercation with OMG outside the venue. &#39;I asked for it, I got it. ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot section' id='footer-1'><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/'>
+2023
+</a>
+<span class='post-count' dir='ltr'>(639)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(64)</span>
+<ul class='posts'>
+<li><a href='https://www.gangsterismout.com/2023/12/zambias-foreign-minister-stanley-kakubo.html'>Zambia&#39;s Foreign Minister Stanley Kakubo quits aft...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/ridgeview-place-langford-hi-rise-still.html'>RidgeView Place - Langford hi-rise still vacant</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/hakan-ayik-luxury-fleet-turned-into.html'>Hakan Ayik luxury fleet turned into police cars</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/mr-flashy-gangster-sliced-to-ribbons.html'>Mr Flashy gangster sliced to ribbons after gun jam...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/asshole-toronto-cop-threatens-to.html'>Toronto cop threatens to confiscate Canadian flag</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/iranian-water-mafia.html'>Iranian water mafia</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/lunatic-trump-wishes-americans-merry.html'>Trump wishes Americans a Merry Christmas</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/limerick-cocaine-bust-has-canadian.html'>Limerick cocaine bust has Canadian connect</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/cocaine-in-cheese.html'>Cocaine in cheese</a></li>
+<li><a href='https://www.gangsterismout.com/2018/04/manitoba-hells-angels-do-fraud-on-small.html'>Dale Kelland/Donovan - Manitoba nomads revisited -...</a></li>
+<li><a href='https://www.gangsterismout.com/2016/10/claudia-ochoa-felix-mexican-kim.html'>Claudia Ochoa Felix -  Mexican Kim Kardashian revi...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/nj-pot-and-cocaine-run-goes-bad.html'>NJ pot and cocaine run goes bad</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/montreal-cops-land-huge-gold-stash.html'>Montreal cops land huge gold stash</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/carlos-orense-azocar-el-gordo-trial.html'>Carlos Orense Azocar - &#39;El Gordo&#39; guilty</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/wilder-sanchez-farfan-gato.html'>Wilder Sanchez Farfan - &#39;Gato&#39;</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/ramin-yektaparast-hamc-iranian-terrorist.html'>Ramin Yektaparast = HAMC Iranian terrorist</a></li>
+<li><a href='https://www.gangsterismout.com/2023/05/vincenzo-jimmy-demaria-fights.html'>Vincenzo &#39;Jimmy&#39; DeMaria fights deportation - wins</a></li>
+<li><a href='https://www.gangsterismout.com/2022/03/kyle-alexander-purvis-nailed-for-major.html'>Kyle Alexander Purvis nailed for MAJOR cocaine - u...</a></li>
+<li><a href='https://www.gangsterismout.com/2016/09/vincent-vinny-ocean-palermo-real-tony.html'>Vincent &quot;Vinny Ocean&quot; Palermo - The real Tony Soprano</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/ralph-stanfield-sa-construction-mafia.html'>Ralph Stanfield - SA construction mafia</a></li>
+<li><a href='https://www.gangsterismout.com/2023/06/francesco-chit-del-balso-gunned-down.html'>Francesco &#39;Chit&#39; Del Balso gunned down - update IV</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/nsw-cops-stumble-on-722-kg.html'>NSW cops stumble on 722 kg</a></li>
+<li><a href='https://www.gangsterismout.com/2023/10/east-vancouver-hamc-clubhouse-for-sale.html'>East Vancouver HAMC clubhouse for sale soon</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/kgb-publishes-its-2024-calendar.html'>KGB publishes its 2024 calendar</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/meth-and-cocaine-hidden-in-vats-of.html'>Meth and cocaine hidden in vats of jalapeño paste</a></li>
+<li><a href='https://www.gangsterismout.com/2023/01/vincent-barletta-sues-basterds-beef.html'>Vincent Barletta sues the basterds for $3.5m - Bee...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/quebecer-with-ties-to-hells-angels.html'>Quebecer with ties to Jean Richard Larivière kille...</a></li>
+<li><a href='https://www.gangsterismout.com/2018/04/ha-jean-richard-lariviere-has-patches.html'>HA Jean-Richard Larivière</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/nick-kara-beating-brajkovich-senseless.html'>Nick Kara beating Dayne Brajkovich senseless</a></li>
+<li><a href='https://www.gangsterismout.com/2022/05/port-of-vancouver-368th-out-of-370.html'>Damiano Dipopolo kicked out of HAMC - &#39;person of i...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/100-stolen-cars-seized-at-port-of.html'>100 stolen cars seized at Port of Montreal</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/11-tonnes-of-albanian-mafia-cocaine.html'>11 tonnes of Albanian mafia cocaine seized</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/minnesota-ha-jerand-paul-french-nailed.html'>Minnesota HA Jerand Paul French nailed</a></li>
+<li><a href='https://www.gangsterismout.com/2023/05/famous-henchmen.html'>Famous henchmen</a></li>
+<li><a href='https://www.gangsterismout.com/2018/09/larry-amero-dean-wiwchar-and-rabih.html'>Larry Amero, Dean Wiwchar and Rabih Alkhalil</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/decotiis-foundation-wall-collapse.html'>Decotiis wall collapse = Amacon Developments  - up...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/paraguay-on-cocaine-rise.html'>Paraguay on the cocaine rise</a></li>
+<li><a href='https://www.gangsterismout.com/2023/05/springfield-hamc-clubhouse-for-sale.html'>Springfield HAMC clubhouse sold</a></li>
+<li><a href='https://www.gangsterismout.com/2019/11/ha-connected-drug-ring-nailed-in.html'>HA connected Zale Coty nailed - update</a></li>
+<li><a href='https://www.gangsterismout.com/2020/10/rudy-giuliani-filthy-few.html'>Rudy Giuliani - &#39;Filthy Few&#39;</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/quebec-hells-angels-mark-46-years.html'>Quebec Hells Angels mark 46 years</a></li>
+<li><a href='https://www.gangsterismout.com/2022/08/frederick-silva-to-solve-dozens-of.html'>Frédérick Silva to solve dozens of murders</a></li>
+<li><a href='https://www.gangsterismout.com/2017/10/joseph-mad-dog-sullivan.html'>Joseph &#39;Mad Dog&#39; Sullivan</a></li>
+<li><a href='https://www.gangsterismout.com/2022/07/frederick-silva-in-news.html'>Frédérick Silva in the news - update IV</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/ivano-de-cotiis-books-court-win-over.html'>Ivano De Cotiis court win over Rossano De Cotiis a...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/11/bikie-dayne-brajkovich-selling-his-huge.html'>Dayne Brajkovich selling Death Heads - update III</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/ex-nypd-cop-pleads-guilty-to-tipping.html'>Ex-NYPD cop pleads guilty to tipping off murderer ...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/kodax-black-busted-for-cocaine.html'>Kodax Black busted for cocaine</a></li>
+<li><a href='https://www.gangsterismout.com/2023/07/colombo-boss-in-waiting-theodore.html'>Colombo boss in waiting  Theodore Persico Jr.</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/mandy-callahan-wanted-on-54-warrants.html'>Mandy Callahan wanted on 54 warrants</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/olive-oil-becoming-more-profitable-than.html'>Olive Oil becoming more profitable than cocaine</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/auto-thieves-conspired-with.html'>Auto thieves conspired with ServiceOntario employees</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/baby-face-nelson.html'>&#39;Baby Face&#39; Nelson</a></li>
+<li><a href='https://www.gangsterismout.com/2023/07/fleeced-investor-denies-kidnapping.html'>Fleeced dummy denies abusing Aiden Pleterski - update</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/mexican-mafia-gonzalez-stays-caged-for.html'>Mexican Mafia Gonzalez stays caged for cop killing</a></li>
+<li><a href='https://www.gangsterismout.com/2023/02/john-michael-aronson-caught-napping.html'>John Michael Aronson  - Johnny Blaze busted again</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/colombian-jhon-fredy-zapata-garzon.html'>Colombian Jhon Fredy Zapata-Garzón faces kingpin c...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/george-nast-atlas-one-digital.html'>George Nast - Atlas One Digital Securities - Addy ...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/genovese-capo-was-defending-his-honor.html'>Genovese capo was defending his honor - &#39;no balls&#39;...</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/cops-get-mitts-on-gangster-kangaroo.html'>Cops get mitts on gangster kangaroo</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/marc-issa-el-khoury-whacked.html'>Marc Issa El-Khoury whacked</a></li>
+<li><a href='https://www.gangsterismout.com/2023/12/tadeusz-rydzyk-polands-father-director.html'>Tadeusz Rydzyk - Poland&#39;s &#39;father director&#39;</a></li>
+<li><a href='https://www.gangsterismout.com/2022/12/george-santos-some-piece-of-work.html'>George Santos - drag queen Kitara Ravache, booted ...</a></li>
+<li><a href='https://www.gangsterismout.com/2022/04/ha-courtney-vasseur-nailed-with-stock.html'>HA Courtney Vasseur and David Sidoo - update VI</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(70)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(63)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(63)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(40)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(46)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(56)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(56)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(54)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(47)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(51)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2023/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/'>
+2022
+</a>
+<span class='post-count' dir='ltr'>(487)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(51)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(52)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(53)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(45)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(36)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(37)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2022/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/'>
+2021
+</a>
+<span class='post-count' dir='ltr'>(484)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(51)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(42)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(49)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(58)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2021/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/'>
+2020
+</a>
+<span class='post-count' dir='ltr'>(449)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(40)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(40)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(37)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(47)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(49)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2020/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/'>
+2019
+</a>
+<span class='post-count' dir='ltr'>(429)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(37)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(36)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(49)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(46)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(46)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2019/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(44)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/'>
+2018
+</a>
+<span class='post-count' dir='ltr'>(524)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(41)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(48)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(45)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(51)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(47)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(44)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(48)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(45)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(49)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(44)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2018/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(49)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/'>
+2017
+</a>
+<span class='post-count' dir='ltr'>(511)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(49)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(53)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(50)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(44)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(50)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(53)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(38)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(37)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2017/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(46)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(252)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(44)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(55)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2016/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2015/'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(32)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2015/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2015/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2015/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2015/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2015/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2015/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://www.gangsterismout.com/2015/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div></div>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot no-items section' id='footer-3' name='Footer'></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3069997043-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY4U3KzgdAomPRntvUuicBTXCTHeIA:1703761102259';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d6344200803715377367','//www.gangsterismout.com/','6344200803715377367');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '6344200803715377367', 'title': 'Gangsterism Out ', 'url': 'https://www.gangsterismout.com/', 'canonicalUrl': 'https://www.gangsterismout.com/', 'homepageUrl': 'https://www.gangsterismout.com/', 'searchUrl': 'https://www.gangsterismout.com/search', 'canonicalHomepageUrl': 'https://www.gangsterismout.com/', 'blogspotFaviconUrl': 'https://www.gangsterismout.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Gangsterism Out  - Atom\x22 href\x3d\x22https://www.gangsterismout.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Gangsterism Out  - RSS\x22 href\x3d\x22https://www.gangsterismout.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Gangsterism Out  - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/6344200803715377367/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-6275411984779614', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'adsenseAutoAds': true, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/1a807f1b871b67af', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Gangsterism Out ', 'metaDescription': 'Gangsterism Out'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true, 'variant': 'simplysimple', 'variantId': 'simplysimple'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Gangsterism Out ', 'description': 'Gangsterism Out', 'url': 'https://www.gangsterismout.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'crosscol', document.getElementById('PageList1'), {'title': 'Cocaine in', 'links': [{'isCurrentPage': false, 'href': 'http://gangstersoutt.blogspot.com/p/wolfpack.html', 'title': 'WolfPack'}, {'isCurrentPage': false, 'href': 'https://gangstersoutt.blogspot.com/p/ha-canada.html', 'title': 'HA Canada'}, {'isCurrentPage': false, 'href': 'https://gangstersoutt.blogspot.com/p/famous-gangsters_21.html', 'title': 'Famous Gangsters'}, {'isCurrentPage': false, 'href': 'https://gangstersoutt.blogspot.com/p/us-mob.html', 'title': 'US Mob'}, {'isCurrentPage': false, 'href': 'https://gangstersoutt.blogspot.com/p/montreal-mafia.html', 'title': 'Montreal Mafia'}, {'isCurrentPage': false, 'href': 'https://gangstersoutt.blogspot.com/p/ha-world.html', 'title': 'HA World'}, {'isCurrentPage': false, 'href': 'https://gangstersoutt.blogspot.com/p/ha-quebec.html', 'title': 'HA Quebec'}, {'isCurrentPage': false, 'href': 'https://gangstersoutt.blogspot.com/p/oz.html', 'title': 'Oz'}, {'isCurrentPage': false, 'href': 'http://www.rcmp-grc.gc.ca/en/wanted', 'title': 'RCMP Most Wanted'}, {'isCurrentPage': false, 'href': 'https://doctorstoxxman.blogspot.com/', 'title': 'Doctor Stoxxman'}, {'isCurrentPage': false, 'href': 'https://www.gangsterismout.com/p/hexot.html', 'id': '6512577110270791409', 'title': 'HEXO.t'}, {'isCurrentPage': false, 'href': 'https://www.gangsterismout.com/p/cocaine-in.html', 'id': '8302688684427440114', 'title': 'Cocaine in '}, {'isCurrentPage': false, 'href': 'https://www.gangsterismout.com/p/vancouver.html', 'id': '2495651264103910060', 'title': 'Vancouver'}, {'isCurrentPage': false, 'href': 'https://www.gangsterismout.com/p/trump.html', 'id': '5102252741569359012', 'title': 'Trump'}, {'isCurrentPage': false, 'href': 'https://www.gangsterismout.com/p/animal-gangsters.html', 'id': '9167566116880535907', 'title': 'Animal Gangsters'}, {'isCurrentPage': false, 'href': 'https://www.gangsterismout.com/p/ha-america.html', 'id': '5904007153188694865', 'title': 'HA USA'}, {'isCurrentPage': false, 'href': 'https://eumostwanted.eu/', 'title': 'EU most wanted'}, {'isCurrentPage': false, 'href': 'https://www.gangsterismout.com/p/greenbelt-fraud.html', 'id': '8214708227299267702', 'title': 'Greenbelt Fraud'}], 'mobile': false, 'showPlaceholder': false, 'hasCurrentPage': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar-right-1', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_StatsView', new _WidgetInfo('Stats1', 'sidebar-right-1', document.getElementById('Stats1'), {'title': '\xa0', 'showGraphicalCounter': false, 'showAnimatedCounter': false, 'showSparkline': false, 'statsUrl': '//www.gangsterismout.com/b/stats?style\x3dBLACK_TRANSPARENT\x26timeRange\x3dALL_TIME\x26token\x3dAPq4FmCYB2LnBoXthYKmWDrU81k98MBIUM_ssgunpJWE6DbnVFaXPPWgiFctb2WyJsEz3zLXsK2vGewXxboi_ZQyDfo74-m0yQ'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList1', 'sidebar-right-1', document.getElementById('BlogList1'), {'numItemsToShow': 5, 'totalItems': 4}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'sidebar-right-1', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar-right-1', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'footer-1', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+</script>
+</body>
+</html>
